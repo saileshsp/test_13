@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "dnsNameForPublicIP": {
+            "value": "java"
+        },
+        "adminUsername": {
+            "value": "azure"
+        },
+        "imagePublisher": {
+            "value": "OpenLogic"
+        },
+        "imageOffer": {
+            "value": "CentOS"
+        },
+        "imageSKU": {
+            "value": "7.7"
+        },
+        "vmSize": {
+            "value": "Standard_D2s_v3"
+        },
+        "publicIPAddressName": {
+            "value": "myPublicIP"
+        },
+        "vmName": {
+            "value": "myLinuxVM"
+        },
+        "virtualNetworkName": {
+            "value": "myVNET"
+        },
+        "nicName": {
+            "value": "myNIC"
+        },
+        "location": {
+            "value": "eastus"
+        },
+        "authenticationType": {
+            "value": "sshPublicKey"
+        },
+        "adminPasswordOrKey": {
+            "value": null
+        }
+    }
+}
