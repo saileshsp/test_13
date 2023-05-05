@@ -16,6 +16,12 @@
         "description": "Azure Cosmos DB account name, max length 44 characters"
       }
     },
+    "adminUsername": {
+            "type": "String",
+            "metadata": {
+                "description": "Desired admin username to log on to the VM"
+            }
+        },
     "dnsNameForPublicIP": {
         "type": "String",
         "metadata": {
