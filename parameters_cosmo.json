@@ -8,9 +8,6 @@
     "primaryRegion": {
       "value": "East US"
     },
-    "secondaryRegion": {
-      "value": "East US"
-    },
     "databaseName": {
       "value": "myDatabase"
     },
