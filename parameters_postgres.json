@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serverName": {
-      "value": "GEN-UNIQUE"
+      "value": "adminpos"
     },
     "administratorLogin": {
-      "value": "GEN-UNIQUE"
+      "value": "adminpos"
     },
     "administratorLoginPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "adminpos"
     }
   }
 }
