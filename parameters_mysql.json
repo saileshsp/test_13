@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "serverName": {
-      "value": "GEN-UNIQUE"
+      "value": "mysqladmin"
     },
     "administratorLogin": {
-      "value": "GEN-UNIQUE-8"
+      "value": "mysqladmin"
     },
     "administratorLoginPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Password@123"
     }
   }
 }
