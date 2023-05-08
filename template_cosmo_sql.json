@@ -29,12 +29,7 @@
         "description": "The primary region for the Azure Cosmos DB account."
       }
     },
-    "secondaryRegion": {
-      "type": "string",
-      "metadata": {
-        "description": "The secondary region for the Azure Cosmos DB account."
-      }
-    },
+   
     "defaultConsistencyLevel": {
       "type": "string",
       "defaultValue": "Session",
